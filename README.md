@@ -32,5 +32,8 @@ MLP approach for the open problems multimodal single cell integration Kaggle com
 1. 30 gigs of RAM + Intel Xeon CPU (Kaggle's notebook hardware)
 
 #### :medal_sports: Results
-1. 146/1266 (top 11.5%)
-2. Total time spent on the competition: 10 days
+1. 146/1266 (top 11.5%) (Private Score: 0.767757)
+
+#### :horse_racing: Team Details
+1. Name: Arindam Baruah
+2. Total members: 1
